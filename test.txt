@@ -1,2 +1,4 @@
 i am master
 i am featureTwo
+i am feature1
+i am test
